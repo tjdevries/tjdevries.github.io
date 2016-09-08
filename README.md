@@ -1,1 +1,3 @@
 # tjdevries.github.io
+
+Working on getting this setup within the next couple days...
