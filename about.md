@@ -16,4 +16,13 @@ permalink: /about/
 
 My name is TJ DeVries and I love software!
 
-More to come
+
+# Projects I've Contributed To
+
+- [Neovim](https://github.com/neovim/neovim):
+  - Centered Statusline: [#4489](https://github.com/neovim/neovim/pull/4489)
+  - `:CheckHealth`: [#4932](https://github.com/neovim/neovim/pull/4932), [#5205](https://github.com/neovim/neovim/pull/5205), [#5306](https://github.com/neovim/neovim/pull/5306)
+- [NamedStruct](https://github.com/sprout42/namedstruct):
+  - Fixedpoint Element: [#9](https://github.com/sprout42/NamedStruct/pull/9)
+- [Deoplete](https://github.com/shougo/deoplete.nvim):
+  - Health Checker: [#335](https://github.com/Shougo/deoplete.nvim/pull/335)
